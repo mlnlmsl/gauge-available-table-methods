@@ -1,5 +1,6 @@
 # This contains methods of table class in python gauge 
 Table methods from gauge:
+<br>
 1> headers
   :: Syntax: table.headers
   :: Returns: the header of the table(table header)
